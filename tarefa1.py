@@ -1,0 +1,5 @@
+print("Moi bos dias a todos")
+print("3+3")
+print(3+3)
+print("hola mis amigos")
+print(2+48*15)
